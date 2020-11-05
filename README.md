@@ -27,4 +27,4 @@
 <img align="center" alt="solox's Github Stats" src="https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloxjs&langs_count=80&layout=compact&count_private=true&exclude_repo=gfglobal)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloxj)](https://github.com/anuraghazra/github-readme-stats)
