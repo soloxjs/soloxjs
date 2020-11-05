@@ -1,15 +1,11 @@
 ### Hi there, I'm solo 👋
 
-<br />
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my Homepage and Kamisaka :D
 - 🌱 I’m currently learning the Electron framework
 - 💬 Ask me about nothing :lul:
 - ⚡ Fun fact: no fun fact
 
+<br />
 <br />
 
 ## Languages and Tools:
