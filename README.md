@@ -1,7 +1,7 @@
 ### Hi there, I'm solo 👋
 
-- 🔭 I’m currently working on my Homepage and Kamisaka :D
-- 🌱 I’m currently learning the Electron framework
+- 🔭 I’m currently working on CulturaSystems :D
+- 🌱 I’m currently learning the Electron framework and Java
 - 💬 Ask me about nothing :lul:
 - ⚡ Fun fact: no fun fact
 
