@@ -22,13 +22,10 @@
 <br />
 
 ## 📈 Github Stats
-![ֆolo's Github Stats](https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&theme=tokyonight)
+![ֆolo's Github Stats](https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 🧭 Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloxjs&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloxjs&theme=tokyonight&hide_border=true)
 
-## Wakatime Stats
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=soloxjs&theme=tokyonight)
 
