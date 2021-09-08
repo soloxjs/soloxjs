@@ -28,4 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloxjs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## Wakatime Stats
+
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=soloxjs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
