@@ -22,7 +22,7 @@
 <br />
 
 ## 📈 Github Stats
-![ֆolo's Github Stats](https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&theme=tokyonight&hide_border=true)
+![ֆolo's Github Stats](https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&hide_border=true&bg_color=0d1117&text_color=fffff&icon_color=fffff)
 
 ## 🧭 Language Stats
 
