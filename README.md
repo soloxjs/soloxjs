@@ -29,6 +29,15 @@
 <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </a>
 
+<h3 align="left">OSs:</h3>
+<a href="https://www.microsoft.com/en-gb/windows/" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> </a>
+<a href="https://linuxmint.com/" target="_blank"> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/> </a>
+<a href="https://www.debian.org/" target="_blank"> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/> </a>
+<a href="https://www.deepin.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white"/> </a>
+
+
+
 <h3 align="left">Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="soloxjs" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloxjs&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&langs_count=8" alt="soloxjs" /></p>
