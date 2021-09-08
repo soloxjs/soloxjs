@@ -22,7 +22,7 @@
 <br />
 
 ## 📈 Github Stats
-
+![ֆolo's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <p align="left">
 <img align="center" alt="ֆolo's Github Stats" src="![ֆolo's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
 </p>
