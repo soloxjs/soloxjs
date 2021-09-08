@@ -24,7 +24,7 @@
 ## 📈 Github Stats
 
 <p align="left">
-<img align="center" alt="solox's Github Stats" src="https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&count_private=true&theme=radial" />
+<img align="center" alt="ֆolo's Github Stats" src="![ֆolo's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
 </p>
 
 ## 🧭 Language Stats
