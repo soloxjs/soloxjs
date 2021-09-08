@@ -2,7 +2,7 @@
 <h3 align="center">Developer with interests in JavaScript, HTML, CSS and C++
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soloxjs&label=Profile%20views&color=0e75b6&style=flat" alt="soloxjs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soloxjs&label=Profile%20views&color=0e75b6&style=flat&color=0d1117" alt="soloxjs" /> </p>
 
 - 🔭 I’m currently working on **CulturaSystems**
 
