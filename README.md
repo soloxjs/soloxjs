@@ -31,15 +31,15 @@
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"/> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15"/> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/> </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/> </a>
+<a href="https://inkscape.org/" target="_blank"> <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/> </a>
+<a href="https://www.gimp.org/" target="_blank"> <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/> </a>
 
 <h3 align="left">IDEs:</h3>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/> </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/> </a>
+<a href="https://atom.io/" target="_blank"> <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/> </a>
+<a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/> </a>
 
 <h3 align="left">Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="soloxjs" /></p>
