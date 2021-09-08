@@ -2,8 +2,6 @@
 <h3 align="center">Developer with interests in JavaScript, HTML, CSS and C++
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soloxjs&label=Profile%20views&color=0e75b6&style=flat&color=0d1117&style=flat-square&label=views" alt="soloxjs" /> </p>
-
 - 🔭 I’m currently working on **CulturaSystems**
 
 - 🌱 I’m currently learning **Java**
@@ -12,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/ZsaRZETQpu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZsaRZETQpu" height="30" width="40" /></a>
+<a href="https://discord.gg/ZsaRZETQpu" target="blank"><img align="center" src="https://img.shields.io/discord/753315155168985099?color=0d1117&label=discord&logo=Discord&logoColor=ffffff&style=for-the-badge" alt="https://discord.gg/ZsaRZETQpu"/></a>
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -48,5 +46,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="soloxjs" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloxjs&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&langs_count=8" alt="soloxjs" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=soloxjs&theme=dark&hide_border=true&background=0d1117&ring=ffffff&currStreakNum=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="soloxjs" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soloxjs&label=Profile%20views&color=0e75b6&style=flat&color=0d1117&style=flat-square&label=views" alt="soloxjs" /> </p>
 
