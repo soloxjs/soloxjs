@@ -30,7 +30,6 @@
 <h3 align="left">Design:</h3>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15"/> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15"/> </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15"/> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/> </a>
