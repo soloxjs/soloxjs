@@ -23,11 +23,9 @@
 
 ## 📈 Github Stats
 ![ֆolo's Github Stats](https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&theme=tokyonight)
-<p align="left">
-<img align="center" alt="ֆolo's Github Stats" src="![ֆolo's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
-</p>
 
 ## 🧭 Language Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloxjs&layout=compact&bg_color=DEG,0xF7DC6F,0x3498DB)](https://github.com/soloxjs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloxjs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
