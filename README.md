@@ -21,7 +21,7 @@
 <br />
 <br />
 
-![ֆolo's Github Stats](https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color =ffffff)
+![ֆolo's Github Stats](https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soloxjs&theme=tokyonight&hide_border=true)
 
