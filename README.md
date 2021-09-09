@@ -46,5 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloxjs&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&langs_count=8" alt="soloxjs" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Solo&layout=compact" alt="Solo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=soloxjs&theme=dark&hide_border=true&background=0d1117&ring=ffffff&currStreakNum=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="soloxjs" /></p>
+<p>&nbsp;<img align="center" src="https://wakatime.com/share/@Solo/e7e90893-d4c3-4e0d-9d03-2a6c4a242a4d.svg" alt="soloxjs" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soloxjs&label=Profile%20views&color=0e75b6&style=flat&color=0d1117&style=flat-square&label=views" alt="soloxjs" /> </p>
+
 
