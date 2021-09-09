@@ -14,6 +14,11 @@
 <a href="https://discord.com/users/650214796293046303" target="blank"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/650214796293046303?theme=dark&bg=0d1117&borderRadius=0" alt="Discord"/></a>
 </p>
 
+<h3 align="left">Recent activities:</h3>
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
 <h3 align="left">Languages:</h3>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> </a>
 <a href="https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a>
