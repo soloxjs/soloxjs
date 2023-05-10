@@ -14,7 +14,7 @@
 <a href="https://discord.com/users/714810622528716903" target="blank"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/714810622528716903?theme=dark&bg=0d1117&borderRadius=0" alt="Discord"/></a>
 </p>
 
-<h3 align="left">Recent activities:</h3>
+<!--<h3 align="left">Recent activities:</h3>-->
 <!--RECENT_ACTIVITY:start-->
 
 <!--RECENT_ACTIVITY:last_update-->
