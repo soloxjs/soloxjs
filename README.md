@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://discord.com/users/650214796293046303" target="blank"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/650214796293046303?theme=dark&bg=0d1117&borderRadius=0" alt="Discord"/></a>
+<a href="https://discord.com/users/714810622528716903" target="blank"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/650214796293046303?theme=dark&bg=0d1117&borderRadius=0" alt="Discord"/></a>
 </p>
 
 <h3 align="left">Recent activities:</h3>
@@ -46,7 +46,3 @@
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/> </a>
-
-<h3 align="left">Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soloxjs&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="soloxjs" /></p>
-
