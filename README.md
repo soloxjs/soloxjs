@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ֆolo</h1>
-<h2 align="center">Developer with interests in JavaScript, HTML, CSS and C++
+<h2 align="center">Developer with interests in Java, JavaScript, HTML, CSS and other techy stuff
 </h3>
 
 - 🔭 I’m currently working on **CulturaSystems**
